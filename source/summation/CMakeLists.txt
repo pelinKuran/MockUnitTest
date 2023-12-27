@@ -1,0 +1,2 @@
+add_library(summation summation.cpp)
+target_include_directories(summation PUBLIC include)
